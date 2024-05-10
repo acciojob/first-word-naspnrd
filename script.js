@@ -1,5 +1,5 @@
 function firstWord(s) {
-  // Trim the string to remove leading and trailing whitespace
+ // Trim the string to remove leading and trailing whitespace
   const trimmedStr = str.trim();
   
   // Split the trimmed string by space
