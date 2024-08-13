@@ -1,7 +1,7 @@
 function firstWord(str) {
-	const trimmedStr = str.trim();
-	const words = trimmedStr.split(" ");
-	console.log(words);
+	const trimmdStr = str.trim();
+	const words = trimmdStr.split(" ");
+	console.log(words); 
 	return words[0];
 }
 
